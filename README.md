@@ -156,5 +156,4 @@ The Doctor Patient Appointment Booking System relies on the following dependenci
 - `nodemailer`: To send Email notification
 
 ## Deployment Link
-- [Frontend](https://splendorous-beignet-2007e7.netlify.app/)
 - [Backend](https://dull-teal-walrus-shoe.cyclic.app/)
